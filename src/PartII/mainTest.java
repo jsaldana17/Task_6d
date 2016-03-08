@@ -9,6 +9,7 @@ public class mainTest
         JUnitTestAngle testAngle = new JUnitTestAngle();
         testAngle.testAdding();
         testAngle.testSubtracting();
+        System.out.println();
 
     }
 
